@@ -1,7 +1,5 @@
 ﻿using ConsoleApp1.Interface;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ConsoleApp1.Classes
 {

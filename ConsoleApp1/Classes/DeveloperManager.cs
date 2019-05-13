@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using ConsoleApp1.Interface;
+﻿using ConsoleApp1.Interface;
 
 namespace ConsoleApp1.Classes
 {
