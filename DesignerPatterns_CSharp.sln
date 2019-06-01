@@ -5,21 +5,21 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory_Method", "Factory_Method", "{1412F770-CD53-42E9-AEC4-498AF346920E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9619C876-2C68-4575-8D5B-BB896A2B3221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational-Factory_Method", "ConsoleApp1\Creational-Factory_Method.csproj", "{9619C876-2C68-4575-8D5B-BB896A2B3221}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prototype", "Prototype", "{F44C4521-AF65-4573-920A-7141B0CCBC48}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{DBF9ECC1-62A9-41EE-A0D6-5308C25D7826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational-Prototype", "ConsoleApp2\Creational-Prototype.csproj", "{DBF9ECC1-62A9-41EE-A0D6-5308C25D7826}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Singleton", "Singleton", "{2D10E815-C824-49C0-952E-3C24D4583F74}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WrongWay", "WrongWay", "{39FA2D31-5E20-484A-AA62-73DD754CA86F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{BFF0A860-5E60-4F61-9951-EC7D4D1DBE29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational-Singleton-WrongWay", "ConsoleApp3\Creational-Singleton-WrongWay.csproj", "{BFF0A860-5E60-4F61-9951-EC7D4D1DBE29}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CorrectWay", "CorrectWay", "{DEAD55E7-0B62-4C09-A33C-7971337136AB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{E51AAF66-2B76-4D96-A02A-06638BA4C63B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational-Singleton-CorrectWay", "ConsoleApp4\Creational-Singleton-CorrectWay.csproj", "{E51AAF66-2B76-4D96-A02A-06638BA4C63B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter", "Adapter", "{D57F237F-9F48-4A47-B445-8524412C8790}"
 EndProject
@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{66A6CA51-B9D7-45E4-8FF2-750C9E8F9F7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6\ConsoleApp6.csproj", "{4ED20BFD-E355-4E93-B9F7-B5DD9AE22044}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural-Adapter", "ConsoleApp6\Structural-Adapter.csproj", "{4ED20BFD-E355-4E93-B9F7-B5DD9AE22044}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
